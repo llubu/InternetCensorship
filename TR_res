@@ -1,0 +1,31 @@
+Bulk mode; whois.cymru.com [2014-04-24 06:02:28 +0000]
+NA      | 10.44.25.254     | NA                  |    | other    |            | NA
+NA      | 192.168.253.189  | NA                  |    | other    |            | NA
+NA      | 192.168.255.33   | NA                  |    | other    |            | NA
+NA      | 192.168.255.242  | NA                  |    | other    |            | NA
+NA      | 192.168.255.242  | NA                  |    | other    |            | NA
+NA      | 192.168.255.210  | NA                  |    | other    |            | NA
+4837    | 221.5.5.113      | 221.5.0.0/19        | CN | apnic    | 2003-01-08 | CHINA169-BACKBONE CNCGROUP China169 Backbone,CN
+4837    | 120.80.195.177   | 120.80.192.0/22     | CN | apnic    | 2008-03-25 | CHINA169-BACKBONE CNCGROUP China169 Backbone,CN
+17816   | 120.82.0.69      | 120.80.0.0/13       | CN | apnic    | 2008-03-25 | CHINA169-GZ China Unicom IP network China169 Guangdong province,CN
+4837    | 219.158.99.113   | 219.158.96.0/19     | CN | apnic    | 2002-03-21 | CHINA169-BACKBONE CNCGROUP China169 Backbone,CN
+4837    | 219.158.4.218    | 219.158.0.0/20      | CN | apnic    | 2002-03-21 | CHINA169-BACKBONE CNCGROUP China169 Backbone,CN
+4837    | 219.158.97.74    | 219.158.96.0/19     | CN | apnic    | 2002-03-21 | CHINA169-BACKBONE CNCGROUP China169 Backbone,CN
+4837    | 219.158.25.22    | 219.158.16.0/20     | CN | apnic    | 2002-03-21 | CHINA169-BACKBONE CNCGROUP China169 Backbone,CN
+3356    | 4.71.140.29      | 4.0.0.0/9           | US | arin     |            | LEVEL3 - Level 3 Communications, Inc.,US
+3356    | 4.69.144.190     | 4.0.0.0/9           | US | arin     |            | LEVEL3 - Level 3 Communications, Inc.,US
+3356    | 4.69.137.41      | 4.0.0.0/9           | US | arin     |            | LEVEL3 - Level 3 Communications, Inc.,US
+3356    | 4.69.132.82      | 4.0.0.0/9           | US | arin     |            | LEVEL3 - Level 3 Communications, Inc.,US
+3356    | 4.69.134.142     | 4.0.0.0/9           | US | arin     |            | LEVEL3 - Level 3 Communications, Inc.,US
+3356    | 4.69.134.157     | 4.0.0.0/9           | US | arin     |            | LEVEL3 - Level 3 Communications, Inc.,US
+3356    | 4.69.137.53      | 4.0.0.0/9           | US | arin     |            | LEVEL3 - Level 3 Communications, Inc.,US
+3356    | 4.69.161.106     | 4.0.0.0/9           | US | arin     |            | LEVEL3 - Level 3 Communications, Inc.,US
+3356    | 4.69.161.89      | 4.0.0.0/9           | US | arin     |            | LEVEL3 - Level 3 Communications, Inc.,US
+3356    | 4.69.159.85      | 4.0.0.0/9           | US | arin     |            | LEVEL3 - Level 3 Communications, Inc.,US
+3356    | 4.69.202.182     | 4.0.0.0/9           | US | arin     |            | LEVEL3 - Level 3 Communications, Inc.,US
+3356    | 4.69.200.90      | 4.0.0.0/9           | US | arin     |            | LEVEL3 - Level 3 Communications, Inc.,US
+3356    | 4.69.200.90      | 4.0.0.0/9           | US | arin     |            | LEVEL3 - Level 3 Communications, Inc.,US
+3356    | 212.187.196.82   | 212.187.128.0/17    | GB | ripencc  |            | LEVEL3 - Level 3 Communications, Inc.,US
+24867   | 85.133.16.1      | 85.133.16.0/20      | GB | ripencc  | 2004-11-29 | ADAPT-AS Adapt Services Ltd,GB
+24867   | 85.133.21.170    | 85.133.16.0/20      | GB | ripencc  | 2004-11-29 | ADAPT-AS Adapt Services Ltd,GB
+24867   | 85.133.52.27     | 85.133.32.0/19      | GB | ripencc  | 2004-11-29 | ADAPT-AS Adapt Services Ltd,GB

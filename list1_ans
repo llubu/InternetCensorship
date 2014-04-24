@@ -1,0 +1,25 @@
+Bulk mode; whois.cymru.com [2014-04-23 22:46:38 +0000]
+NA      | 172.16.0.1       | NA                  |    | other    |            | NA
+NA      | 10.7.7.1         | NA                  |    | other    |            | NA
+8359    | 91.78.112.1      | 91.76.0.0/14        | RU | ripencc  | 2006-08-21 | MTS MTS OJSC,RU
+NA      | 10.254.246.73    | NA                  |    | other    |            | NA
+8359    | 212.188.1.5      | 212.188.0.0/17      | RU | ripencc  |            | MTS MTS OJSC,RU
+8359    | 195.34.59.249    | 195.34.32.0/19      | RU | ripencc  |            | MTS MTS OJSC,RU
+8359    | 195.34.59.50     | 195.34.32.0/19      | RU | ripencc  |            | MTS MTS OJSC,RU
+8359    | 212.188.42.17    | 212.188.0.0/17      | RU | ripencc  |            | MTS MTS OJSC,RU
+1200    | 195.69.147.239   | 195.69.144.0/22     | NL | ripencc  | 2003-03-12 | AMS-IX1 Amsterdam Internet Exchange B.V.,NL
+10026   | 61.14.157.57     | 61.14.128.0/18      | JP | apnic    | 2004-03-12 | PACNET Pacnet Global Ltd,HK
+10026   | 61.14.157.250    | 61.14.128.0/18      | JP | apnic    | 2004-03-12 | PACNET Pacnet Global Ltd,HK
+10026   | 203.192.134.65   | 203.192.128.0/18    | JP | apnic    | 2000-04-27 | PACNET Pacnet Global Ltd,HK
+10026   | 203.192.134.66   | 203.192.128.0/18    | JP | apnic    | 2000-04-27 | PACNET Pacnet Global Ltd,HK
+10026   | 61.8.59.46       | 61.8.56.0/22        | AU | apnic    | 2004-01-12 | PACNET Pacnet Global Ltd,HK
+4538    | 202.112.61.121   | 202.112.61.0/24     | CN | apnic    |            | ERX-CERNET-BKB China Education and Research Network Center,CN
+4538    | 101.4.115.226    | 101.4.96.0/19       | CN | apnic    | 2010-12-09 | ERX-CERNET-BKB China Education and Research Network Center,CN
+4538    | 101.4.116.133    | 101.4.96.0/19       | CN | apnic    | 2010-12-09 | ERX-CERNET-BKB China Education and Research Network Center,CN
+4538    | 101.4.112.82     | 101.4.96.0/19       | CN | apnic    | 2010-12-09 | ERX-CERNET-BKB China Education and Research Network Center,CN
+4538    | 101.4.117.90     | 101.4.96.0/19       | CN | apnic    | 2010-12-09 | ERX-CERNET-BKB China Education and Research Network Center,CN
+4538    | 101.4.113.18     | 101.4.96.0/19       | CN | apnic    | 2010-12-09 | ERX-CERNET-BKB China Education and Research Network Center,CN
+4538    | 202.112.38.254   | 202.112.36.0/22     | CN | apnic    |            | ERX-CERNET-BKB China Education and Research Network Center,CN
+4538    | 202.112.30.74    | 202.112.30.0/24     | CN | apnic    |            | ERX-CERNET-BKB China Education and Research Network Center,CN
+4538    | 118.202.226.2    | 118.202.0.0/15      | CN | apnic    | 2007-10-24 | ERX-CERNET-BKB China Education and Research Network Center,CN
+4538    | 219.216.128.25   | 219.216.0.0/13      | CN | apnic    | 2002-04-16 | ERX-CERNET-BKB China Education and Research Network Center,CN
